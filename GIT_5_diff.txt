@@ -1,0 +1,4 @@
+Na górze wyświetliła się ścieżka, która wskazuje na to, że znajduję się w katalogu mojego repozytorium Git o nazwie my_first_repo_GIT_3.
+Komenda diff pokazuje różnice między plikami GIT_4_restore.txt, GIT_4_status2.txt i GIT_4_status3.txt. 
+Git przeprowadza analizę miedzy GIT_4_restore.txt a GIT_4_status3.txt i pokazał różnice takie jak dopisana linijka "Hello World", czyli analiza była trafna, dokonana została właśnie taka zmiana.
+ 
