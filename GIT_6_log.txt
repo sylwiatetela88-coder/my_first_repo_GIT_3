@@ -1,0 +1,35 @@
+commit 8d997db0f3a19a2804f1bb3b2b86c2d05e8ecd03
+Author: Sylwia Tetela <sylwiatetela6@gmail.com>
+Date:   Wed Nov 5 13:42:41 2025 +0100
+
+    Add analysis od changes in GIT_5_diff.txt
+
+commit f75e8ba563f8797a203c8567b7aeecb4994c1d97
+Author: Sylwia Tetela <sylwiatetela6@gmail.com>
+Date:   Tue Nov 4 00:13:13 2025 +0100
+
+    Add GIT_5_diff.txt showing modifications
+
+commit 52ed3b6964724a05db882865ae2b81fe14e807d5
+Author: Sylwia Tetela <sylwiatetela6@gmail.com>
+Date:   Mon Nov 3 23:16:36 2025 +0100
+
+    Add README.md with project description
+
+commit 14abaf74e0b4c4e2cd550e36cca4fec7618dba53
+Author: Sylwia Tetela <sylwiatetela6@gmail.com>
+Date:   Mon Nov 3 22:58:57 2025 +0100
+
+    Final commit for GIT_4 exercise
+
+commit beaf39f06911cfcabeed54f9e18421c1500cf364
+Author: Sylwia Tetela <sylwiatetela6@gmail.com>
+Date:   Mon Nov 3 22:53:59 2025 +0100
+
+    Add GIT_1_idea.txt
+
+commit 541059fe880984472df67d758a061dde66ffc4ba
+Author: Sylwia Tetela <sylwiatetela6@gmail.com>
+Date:   Mon Nov 3 22:50:26 2025 +0100
+
+    Add GIT_2_version.txt with Git version info

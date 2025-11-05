@@ -1,0 +1,23 @@
+commit 52ed3b6964724a05db882865ae2b81fe14e807d5
+Author: Sylwia Tetela <sylwiatetela6@gmail.com>
+Date:   Mon Nov 3 23:16:36 2025 +0100
+
+    Add README.md with project description
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..50f34b5
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# Mój pierwszy projekt GIT
+
+Sprawdziłam polecenie git log, pokazuje ono historię commitów w repozytorium , pokazuje ID commita, autora, datę a także opis zmian.
+Git --oneline pokazuje wersję skróconą, każy commit jest pokazany w osobnej linijce, szybki przgląd historii.
+Pozostałe flagi git log, które sprobowałam to: 
+- -n 3, który wyświetla trzy ostatnie commity,
+- --stat, pokazuje statystyki zmian,
+- --relative-date pokazuje jaki czas temu był dodany dany commit,
+- --graph to przedstawienie w formie graficznej drzewka commitów,
+- -pretty=format:"%h %an %ar %s" własny format do wyświetlania .
+Funkcje te pozwalają na śledzenie historii.
