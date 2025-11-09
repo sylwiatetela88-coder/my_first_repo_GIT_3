@@ -1,0 +1,6 @@
+# Mój pierwszy projekt GIT
+<<<<<<< HEAD
+Praca z gałęziami i rozwiązywanie konfliktów.
+=======
+Tym wpisem chcę spowodować konflikt.
+>>>>>>> test
