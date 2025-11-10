@@ -1,0 +1,1 @@
+git stash to polecenie do tymczasowego zapisywania zmian bez dodania commitu, git stash list pokazuje zapisane listy zmian, git stash pop przywraca zmiany ze stosu i usuwa z listy. git rebase -i HEAD~2 pozwala łączyć commity w jeden nadając prezjrzystość dokumentowi. git cherry-pick przenosi 1 commit z jednej gałęzi na inną.
