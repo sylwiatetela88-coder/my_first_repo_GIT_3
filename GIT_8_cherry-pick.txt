@@ -1,0 +1,10 @@
+* 75b44d2 Apply stash and record diff for GIT_8
+* 2458a00 Add GIT_8 log from test branch
+* b510705 Cause merge conflict by editing README.md in test branch
+* 66afbce Add commit history and git show analysis for GIT_6
+* 8d997db Add analysis od changes in GIT_5_diff.txt
+* f75e8ba Add GIT_5_diff.txt showing modifications
+* 52ed3b6 Add README.md with project description
+* 14abaf7 Final commit for GIT_4 exercise
+* beaf39f Add GIT_1_idea.txt
+* 541059f Add GIT_2_version.txt with Git version info
