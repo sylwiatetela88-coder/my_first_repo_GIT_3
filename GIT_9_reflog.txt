@@ -1,0 +1,38 @@
+cb98b4c HEAD@{0}: commit: Add GIT_9_reset.txt after removing last commit
+fd1f326 HEAD@{1}: reset: moving to HEAD~1
+3f53d46 HEAD@{2}: commit: Add GIT_9_log.txt with current commit history
+fd1f326 HEAD@{3}: commit: Add cherry-pick results for GIT_8
+3a28ed1 HEAD@{4}: cherry-pick: Save test branch history for branch GIT_8
+e206224 HEAD@{5}: checkout: moving from test to master
+a0b71a2 HEAD@{6}: commit: Save test branch history for branch GIT_8
+75b44d2 HEAD@{7}: checkout: moving from master to test
+e206224 HEAD@{8}: commit: Add result of rebase to GIT_8_rebase.txt
+ce37c13 HEAD@{9}: rebase (finish): returning to refs/heads/master
+ce37c13 HEAD@{10}: rebase (pick): Save work before rebase in GIT_8
+2b9c2f9 HEAD@{11}: rebase (squash): Add GIT_8 log from test branch
+262e9f6 HEAD@{12}: rebase (pick): Add GIT_8 log from test branch
+7e9af94 HEAD@{13}: rebase (start): checkout HEAD~2
+450930e HEAD@{14}: commit: Save work before rebase in GIT_8
+54b65f2 HEAD@{15}: merge test: Merge made by the 'ort' strategy.
+7e9af94 HEAD@{16}: checkout: moving from test to master
+75b44d2 HEAD@{17}: commit: Apply stash and record diff for GIT_8
+2458a00 HEAD@{18}: commit: Add GIT_8 log from test branch
+b510705 HEAD@{19}: checkout: moving from master to test
+7e9af94 HEAD@{20}: commit: Save branch info, status and stash list gor GIT_8
+6f9200b HEAD@{21}: reset: moving to HEAD
+6f9200b HEAD@{22}: commit: Dodano komentarz do pliku README.md, w któym wyjaśniono jak działaja komendy z zadania GIT_7
+85313c7 HEAD@{23}: commit: Add conflict log and branch history for GIT_7
+ba134ce HEAD@{24}: commit (merge): Resolve merge conflict in README.md
+fa74140 HEAD@{25}: checkout: moving from test to master
+b510705 HEAD@{26}: commit: Cause merge conflict by editing README.md in test branch
+66afbce HEAD@{27}: checkout: moving from master to test
+fa74140 HEAD@{28}: commit: Add text about branches and conflict resolution in README.md
+bb6ac8f HEAD@{29}: checkout: moving from master to master
+bb6ac8f HEAD@{30}: commit: Add GIT_7 files with working directory, status, and log
+66afbce HEAD@{31}: commit: Add commit history and git show analysis for GIT_6
+8d997db HEAD@{32}: commit: Add analysis od changes in GIT_5_diff.txt
+f75e8ba HEAD@{33}: commit: Add GIT_5_diff.txt showing modifications
+52ed3b6 HEAD@{34}: commit: Add README.md with project description
+14abaf7 HEAD@{35}: commit: Final commit for GIT_4 exercise
+beaf39f HEAD@{36}: commit: Add GIT_1_idea.txt
+541059f HEAD@{37}: commit (initial): Add GIT_2_version.txt with Git version info

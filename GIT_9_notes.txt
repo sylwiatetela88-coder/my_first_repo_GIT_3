@@ -1,0 +1,2 @@
+git reset --haed HEAD~1 to cofnięcie ostatniego commita wraz ze zmianami w katalogu roboczym
+git reflog pokazuje wszystkie ruchy HEAD nawet te które są cofnięte przez reset
