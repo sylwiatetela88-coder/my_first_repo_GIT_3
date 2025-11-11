@@ -1,0 +1,20 @@
+3f53d46 Add GIT_9_log.txt with current commit history
+fd1f326 Add cherry-pick results for GIT_8
+3a28ed1 Save test branch history for branch GIT_8
+e206224 Add result of rebase to GIT_8_rebase.txt
+ce37c13 Save work before rebase in GIT_8
+2b9c2f9 Add GIT_8 log from test branch
+7e9af94 Save branch info, status and stash list gor GIT_8
+6f9200b Dodano komentarz do pliku README.md, w któym wyjaśniono jak działaja komendy z zadania GIT_7
+85313c7 Add conflict log and branch history for GIT_7
+ba134ce Resolve merge conflict in README.md
+b510705 Cause merge conflict by editing README.md in test branch
+fa74140 Add text about branches and conflict resolution in README.md
+bb6ac8f Add GIT_7 files with working directory, status, and log
+66afbce Add commit history and git show analysis for GIT_6
+8d997db Add analysis od changes in GIT_5_diff.txt
+f75e8ba Add GIT_5_diff.txt showing modifications
+52ed3b6 Add README.md with project description
+14abaf7 Final commit for GIT_4 exercise
+beaf39f Add GIT_1_idea.txt
+541059f Add GIT_2_version.txt with Git version info
